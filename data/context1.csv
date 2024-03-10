@@ -1,0 +1,8 @@
+﻿project,git,language,nlanguage,audience,ui,database,LOC,nfile,ncommit,ndev
+accumulo,https://github.com/apache/accumulo.git,Java,1,developer,Toolkit,F,600191,2200,9175,103
+bugzilla,https://github.com/bugzilla/bugzilla,Perl,1,developer,GUI,T,78448,444,9795,209
+nova,https://github.com/openstack/nova,Python,1,developer,Non-interactive,F,430404,2674,49913,1479
+osquery,https://github.com/facebook/osquery.git,C++,1,developer,Non-interactive,F,91133,782,4190,213
+log4j,https://github.com/apache/log4j,Java,2,developer,Toolkit,F,37419,425,3275,21
+gephi,https://github.com/gephi/gephi,Java,1,user,GUI,F,129259,1359,4599,79
+wordpress,https://github.com/wordpress/wordpress,PHP,3,user,GUI,T,390034,1462,37937,82
